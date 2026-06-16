@@ -43,7 +43,7 @@
         <native-maven-plugin.version>0.11.2</native-maven-plugin.version>
         <!-- assembly-plugin用最新的3.7.0会报空指针问题 -->
         <maven-assembly-plugin.version>3.7.1</maven-assembly-plugin.version>
-        <maven-jar-plugin.version>3.4.2</maven-jar-plugin.version>
+        <maven-jar-plugin.version>3.5.0</maven-jar-plugin.version>
         <maven-clean-plugin.version>3.5.0</maven-clean-plugin.version>
         <maven-shade-plugin.version>3.6.0</maven-shade-plugin.version>
         <front-end-maven-plugin.version>1.15.1</front-end-maven-plugin.version>
